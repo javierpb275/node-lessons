@@ -1,5 +1,4 @@
-require('./utils.js');//if we require a file that we created, the code inside that file will get executed if we run this file.
+const firstName = require('./utils.js');//if we require a file and put it inside a variable, there we have all the code from module.exports
 
-const name = 'Javier';
+console.log(firstName);
 
-console.log(name);

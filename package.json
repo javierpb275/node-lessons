@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/javierpb275/node-lessons/issues"
   },
-  "homepage": "https://github.com/javierpb275/node-lessons#readme"
+  "homepage": "https://github.com/javierpb275/node-lessons#readme",
+  "dependencies": {
+    "validator": "^13.6.0"
+  }
 }
